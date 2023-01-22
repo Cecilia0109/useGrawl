@@ -1,0 +1,11 @@
+{
+  "name": "growl",
+  "version": "1.0.0",
+  "description": "The useGrowl hook that dismisses the growl notification after a certain timeout, with a default of 3 seconds",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cecilia Lei",
+  "license": "ISC"
+}
